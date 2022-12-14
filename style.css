@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(61, 61, 194);
+}
+
+.main-div {
+    width: 500px;
+    height: 360px;
+    margin: 50px auto;
+    box-shadow: 0px 10px 40px rgb(0, 0, 0, 0.4);
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    font: bold;
+    padding: 20px 10px;
+}
+
+#textarea {
+    border: 2px solid blue;
+}
+
+.show-text-container {
+    width: 540px;
+    margin: auto;
+    margin-left: 30px;
+    text-align: left;
+}
+
+h3 {
+    font: bold;
+    font-size: 20px;
+}
+h5 {
+    font: bold;
+    font-size: 18px;
+}
+.btn{
+    border: 2px solid blue;    
+    padding: 5px 15px;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+}
